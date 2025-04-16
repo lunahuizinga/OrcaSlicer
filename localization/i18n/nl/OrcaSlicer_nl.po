@@ -24,7 +24,7 @@ msgid "Section view"
 msgstr "Doorsnede"
 
 msgid "Reset direction"
-msgstr "Richting terugzetten"
+msgstr "Richting resetten"
 
 msgid "Ctrl + Mouse wheel"
 msgstr "Ctrl + muiswiel"
