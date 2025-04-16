@@ -928,7 +928,7 @@ msgstr "Rechts"
 
 msgctxt "Alignment"
 msgid "Top"
-msgstr "Bovenste"
+msgstr "Bovenkant"
 
 msgctxt "Alignment"
 msgid "Middle"
@@ -4203,7 +4203,7 @@ msgid "from"
 msgstr "Van"
 
 msgid "Color Scheme"
-msgstr "Kleurschema"
+msgstr "Kleurenschema"
 
 msgid "Time"
 msgstr "Tijd"
@@ -4663,7 +4663,7 @@ msgstr "Standaard weergave"
 
 #. TRN To be shown in the main menu View->Top
 msgid "Top"
-msgstr "Bovenste"
+msgstr "Bovenkant"
 
 msgid "Top View"
 msgstr "Bovenaanzicht"
@@ -5860,11 +5860,11 @@ msgstr "Fout bij het laden van shaders"
 
 msgctxt "Layers"
 msgid "Top"
-msgstr "Bovenste"
+msgstr "Bovenkant"
 
 msgctxt "Layers"
 msgid "Bottom"
-msgstr "Onderste"
+msgstr "Onderkant"
 
 msgid "Enable AI monitoring of printing"
 msgstr "AI-monitoring van het printen inschakelen"
@@ -8897,10 +8897,10 @@ msgid "Camera view - Behind"
 msgstr "Camera hoek - Achter"
 
 msgid "Camera Angle - Left side"
-msgstr "Camera hoek - Linker zijde"
+msgstr "Camera hoek - Linkerzijde"
 
 msgid "Camera Angle - Right side"
-msgstr "Camera hoek - Rechter zijde"
+msgstr "Camera hoek - Rechterzijde"
 
 msgid "Select all objects"
 msgstr "Selecteer alle objecten"
