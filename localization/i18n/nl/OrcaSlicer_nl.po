@@ -121,7 +121,7 @@ msgid "Color Painting"
 msgstr "Kleuren schilderen"
 
 msgid "Pen shape"
-msgstr "Pen vorm"
+msgstr "Penvorm"
 
 msgid "Paint"
 msgstr "Tekenen"
@@ -133,7 +133,7 @@ msgid "Choose filament"
 msgstr "Kies filament"
 
 msgid "Edge detection"
-msgstr "Rand detectie"
+msgstr "Randdetectie"
 
 msgid "Triangles"
 msgstr "Driehoeken"
@@ -248,10 +248,10 @@ msgid "Set Scale"
 msgstr "Schaal instellen"
 
 msgid "Reset Position"
-msgstr "Positie herstellen"
+msgstr "Positie resetten"
 
 msgid "Reset Rotation"
-msgstr "Rotatie herstellen"
+msgstr "Rotatie resetten"
 
 msgid "World coordinates"
 msgstr "Wereldcoördinaten"
@@ -348,27 +348,32 @@ msgid "Part"
 msgstr "Onderdeel"
 
 msgid "Object"
-msgstr "Voorwerp"
+msgstr "Object"
 
 msgid ""
 "Click to flip the cut plane\n"
 "Drag to move the cut plane"
 msgstr ""
+"Klik om de snijoppervlak om te draaien\n"
+"Sleep om het snijoppervlak te verplaatsen"
 
 msgid ""
 "Click to flip the cut plane\n"
 "Drag to move the cut plane\n"
 "Right-click a part to assign it to the other side"
 msgstr ""
+"Klik om het snijopperlvlak om te draaien\n"
+"Sleep om het snijoppervlak te verplaatsen\n"
+"Rechterklik een onderdeel om het aan de andere kant toe te voegen"
 
 msgid "Move cut plane"
-msgstr ""
+msgstr "Verplaats snijoppervlak"
 
 msgid "Mode"
 msgstr "Modus"
 
 msgid "Change cut mode"
-msgstr ""
+msgstr "Verander snijmodus"
 
 msgid "Tolerance"
 msgstr "Speling"
@@ -377,7 +382,7 @@ msgid "Drag"
 msgstr "Sleep"
 
 msgid "Draw cut line"
-msgstr ""
+msgstr "Teken snijlijn"
 
 msgid "Left click"
 msgstr "Linker muisklik"
@@ -4607,7 +4612,7 @@ msgid "Slice plate"
 msgstr "Slice printbed"
 
 msgid "Print plate"
-msgstr "Printplaat"
+msgstr "Print plaat"
 
 msgid "Slice all"
 msgstr "Alles slicen"
@@ -4715,13 +4720,13 @@ msgid "Recent projects"
 msgstr "Recente Projecten"
 
 msgid "Save Project"
-msgstr "Bewaar project"
+msgstr "Project opslaan"
 
 msgid "Save current project to file"
-msgstr "Bewaar huidig project als"
+msgstr "Sla huidig project op als"
 
 msgid "Save Project as"
-msgstr "Bewaar project als"
+msgstr "Project opslaan als"
 
 msgid "Shift+"
 msgstr "Shift+"
@@ -4736,10 +4741,10 @@ msgid "Load a model"
 msgstr "Laad een model"
 
 msgid "Import Zip Archive"
-msgstr ""
+msgstr "Importeer Zip Archief"
 
 msgid "Load models contained within a zip archive"
-msgstr ""
+msgstr "Laad modellen vanuit een zip archief"
 
 msgid "Import Configs"
 msgstr "Importeer configuratie"
@@ -4775,7 +4780,7 @@ msgid "Export current plate as G-code"
 msgstr "Exporteer de huidige plaat als G-code"
 
 msgid "Export Preset Bundle"
-msgstr ""
+msgstr "Exporteer Preset Bundle"
 
 msgid "Export current configuration to files"
 msgstr "Huidige configuratie exporteren naar bestanden"
@@ -4826,10 +4831,10 @@ msgid "Clone copies of selections"
 msgstr "Duplicaten van selecties maken"
 
 msgid "Duplicate Current Plate"
-msgstr ""
+msgstr "Dupliceer Huidige Plaat"
 
 msgid "Duplicate the current plate"
-msgstr ""
+msgstr "Dupliceer de huidige plaat"
 
 msgid "Select all"
 msgstr "Alles selecteren"
@@ -4850,30 +4855,32 @@ msgid "Use Orthogonal View"
 msgstr "Orthogonale weergave gebruiken"
 
 msgid "Auto Perspective"
-msgstr ""
+msgstr "Auto Perspectief"
 
 msgid ""
 "Automatically switch between orthographic and perspective when changing from "
 "top/bottom/side views"
 msgstr ""
+"Schakel automatisch tussen orthografisch en perspectief tijdens het wisselen "
+"van boven-, onder-, en zijaanzichten"
 
 msgid "Show &G-code Window"
-msgstr ""
+msgstr "Toon G-code Venster"
 
 msgid "Show g-code window in Preview scene"
-msgstr ""
+msgstr "Toon g-code venster in Voorvertoning scène"
 
 msgid "Show 3D Navigator"
-msgstr ""
+msgstr "Toon 3D Navigator"
 
 msgid "Show 3D navigator in Prepare and Preview scene"
-msgstr ""
+msgstr "Toon 3D navigator in de Voorbereiding en Voorvertooning scènes"
 
 msgid "Reset Window Layout"
-msgstr ""
+msgstr "Reset Vensterlayout"
 
 msgid "Reset to default window layout"
-msgstr ""
+msgstr "Resetten naar standaard vensterlayout"
 
 msgid "Show &Labels"
 msgstr "Toon &Labels"
@@ -4882,16 +4889,16 @@ msgid "Show object labels in 3D scene"
 msgstr "Toon objectlabels in 3D-scène"
 
 msgid "Show &Overhang"
-msgstr "Show &Overhang"
+msgstr "Toon &Overhang"
 
 msgid "Show object overhang highlight in 3D scene"
 msgstr "Show object overhang highlight in 3D scene"
 
 msgid "Show Selected Outline (beta)"
-msgstr ""
+msgstr "Toon Geselecteerde Omlijning (beta)"
 
 msgid "Show outline around selected object in 3D scene"
-msgstr ""
+msgstr "Toon omlijning rond het geselecteerde object in de 3D scène"
 
 msgid "Preferences"
 msgstr "Voorkeuren"
@@ -4906,25 +4913,25 @@ msgid "Pass 1"
 msgstr "Fase 1"
 
 msgid "Flow rate test - Pass 1"
-msgstr "Stroomsnelheidstest - Fase 1"
+msgstr "Flowrate test - Fase 1"
 
 msgid "Pass 2"
 msgstr "Fase 2"
 
 msgid "Flow rate test - Pass 2"
-msgstr "Stroomsnelheidstest - Fase 2"
+msgstr "Flowrate test - Fase 2"
 
 msgid "YOLO (Recommended)"
-msgstr ""
+msgstr "YOLO (Aanbevolen)"
 
 msgid "Orca YOLO flowrate calibration, 0.01 step"
-msgstr ""
+msgstr "Orca YOLO flowrate kalibratie, 0.01 step"
 
 msgid "YOLO (perfectionist version)"
-msgstr ""
+msgstr "YOLO (perfectionist versie)"
 
 msgid "Orca YOLO flowrate calibration, 0.005 step"
-msgstr ""
+msgstr "Orca YOLO flowrate kalibratie, 0.005 step"
 
 msgid "Flow rate"
 msgstr "Flowrate"
@@ -4998,17 +5005,17 @@ msgstr "&Help"
 
 #, c-format, boost-format
 msgid "A file exists with the same name: %s, do you want to overwrite it?"
-msgstr ""
+msgstr "Een bestand bestaat met dezelfde naam: %s, wilt u deze overschrijven?"
 
 #, c-format, boost-format
 msgid "A config exists with the same name: %s, do you want to overwrite it?"
-msgstr ""
+msgstr "Een configuratie bestaat met dezelfde naam: %s, wilt u deze overschrijven?"
 
 msgid "Overwrite file"
 msgstr "Bestand overschrijven"
 
 msgid "Overwrite config"
-msgstr ""
+msgstr "Configuratie overschrijven"
 
 msgid "Yes to All"
 msgstr "Ja op alles"
@@ -5043,6 +5050,9 @@ msgid ""
 "Hint: Make sure you have added the corresponding printer before importing "
 "the configs."
 msgstr ""
+"\n"
+"Tip: Zorg ervoor dat u de bijhorende printer heeft toegevoegd voordat de "
+"configuratie wordt geïmporteerd."
 
 msgid "Import result"
 msgstr "Importeer resultaat"
@@ -5104,7 +5114,7 @@ msgstr ""
 msgid ""
 "LAN Only Liveview is off. Please turn on the liveview on printer screen."
 msgstr ""
-"LAN Only Liveview is off. Please turn on the liveview on printer screen."
+"LAN-Only Liveview staat uit. Zet alstublieft liveview aan op het printerscherm."
 
 msgid "Please enter the IP of printer to connect."
 msgstr "Voer het IP-adres in van de printer waarmee u verbinding wilt maken."
@@ -5126,7 +5136,7 @@ msgid "The printer has been logged out and cannot connect."
 msgstr "De printer is afgemeld en kan geen verbinding maken."
 
 msgid "Video Stopped."
-msgstr ""
+msgstr "Video Gestopt."
 
 msgid "LAN Connection Failed (Failed to start liveview)"
 msgstr "LAN-verbinding mislukt (liveview niet gestart)"
@@ -5182,7 +5192,7 @@ msgid "Show all files, recent first."
 msgstr "Toon alle bestanden, recentste eerst."
 
 msgid "Switch to timelapse files."
-msgstr "Schakel over naar timelapse bestanden."
+msgstr "Schakel over naar timelapsebestanden."
 
 msgid "Video"
 msgstr "Video"
@@ -5191,7 +5201,7 @@ msgid "Switch to video files."
 msgstr "Schakel over naar videobestanden."
 
 msgid "Switch to 3mf model files."
-msgstr "Switch to 3mf model files."
+msgstr "Schakel over naar 3mf-modelbestanden."
 
 msgid "Delete selected files from printer."
 msgstr "Verwijder geselecteerde bestanden van de printer."
@@ -5212,7 +5222,7 @@ msgid "Refresh"
 msgstr "Vernieuwen"
 
 msgid "Reload file list from printer."
-msgstr "Reload file list from printer."
+msgstr "Bestandslijst van printer vernieuwen."
 
 msgid "No printers."
 msgstr "Geen printers."
@@ -5224,14 +5234,14 @@ msgid "No files"
 msgstr "Geen bestanden"
 
 msgid "Load failed"
-msgstr "Load failed"
+msgstr "Laden mislukt"
 
 msgid ""
 "Browsing file in SD card is not supported in current firmware. Please update "
 "the printer firmware."
 msgstr ""
-"Browsing file in SD card is not supported in current firmware. Please update "
-"the printer firmware."
+"Het verkennen van bestanden op de SD-kaart is niet ondersteund in de huidige "
+"firmware. Update alstublieft de printerfirmware."
 
 msgid ""
 "Please check if the SD card is inserted into the printer.\n"
@@ -5242,10 +5252,10 @@ msgstr ""
 "formatteren."
 
 msgid "LAN Connection Failed (Failed to view sdcard)"
-msgstr "LAN Connection Failed (Failed to view sdcard)"
+msgstr "LAN Verbinding Mislukt (Kon SD-kaart niet lezen)"
 
 msgid "Browsing file in SD card is not supported in LAN Only Mode."
-msgstr "Browsing file in SD card is not supported in LAN Only Mode."
+msgstr "Het verkennen van bestanden op de SD kaart is niet ondersteund in LAN-Only modus."
 
 #, c-format, boost-format
 msgid "You are going to delete %u file from printer. Are you sure to continue?"
@@ -5255,14 +5265,14 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "Delete files"
-msgstr "Delete files"
+msgstr "Verwijder bestanden"
 
 #, c-format, boost-format
 msgid "Do you want to delete the file '%s' from printer?"
 msgstr "Do you want to delete the file '%s' from printer?"
 
 msgid "Delete file"
-msgstr "Delete file"
+msgstr "Verwijder bestand"
 
 msgid "Fetching model information..."
 msgstr "Fetching model information..."
@@ -5277,6 +5287,8 @@ msgid ""
 "The .gcode.3mf file contains no G-code data.Please slice it with Orca Slicer "
 "and export a new .gcode.3mf file."
 msgstr ""
+"Het .gcode.3mf bestand bevat geen G-code data. Slice het alstublieft met "
+"Orca Slicer en exporteer een nieuw .gcode.3mf bestand."
 
 #, c-format, boost-format
 msgid "File '%s' was lost! Please download it again."
@@ -5351,25 +5363,25 @@ msgid "Swap Y/Z axes"
 msgstr "Wissel Y/Z assen om"
 
 msgid "Invert X axis"
-msgstr ""
+msgstr "X-axis omkeren"
 
 msgid "Invert Y axis"
-msgstr ""
+msgstr "Y-axis omkeren"
 
 msgid "Invert Z axis"
-msgstr ""
+msgstr "Z-axis omkeren"
 
 msgid "Invert Yaw axis"
-msgstr ""
+msgstr "Yaw-axis omkeren"
 
 msgid "Invert Pitch axis"
-msgstr ""
+msgstr "Pitch-axis omkeren"
 
 msgid "Invert Roll axis"
-msgstr ""
+msgstr "Roll-axis omkeren"
 
 msgid "Printing Progress"
-msgstr "Print voortgang"
+msgstr "Printvoortgang"
 
 msgid "0"
 msgstr "0"
@@ -5384,8 +5396,8 @@ msgid ""
 "You have completed printing the mall model, \n"
 "but the synchronization of rating information has failed."
 msgstr ""
-"You have completed printing the mall model, \n"
-"but synchronizing rating information has failed."
+"U heeft het printen van het mall model voltooid, \n"
+"maar het synchroniseren van beoordelingsinformatie is mislukt."
 
 msgid "How do you like this printing file?"
 msgstr "Wat vind je van dit afdrukbestand?"
@@ -5398,7 +5410,7 @@ msgstr ""
 "beoordeling)."
 
 msgid "Rate"
-msgstr "Tarief"
+msgstr "Beoordelen"
 
 msgid "Camera"
 msgstr "Camera"
@@ -5410,16 +5422,16 @@ msgid "Camera Setting"
 msgstr "Camera-instelling"
 
 msgid "Switch Camera View"
-msgstr ""
+msgstr "Camerazicht Wisselen"
 
 msgid "Control"
 msgstr "Besturing"
 
 msgid "Printer Parts"
-msgstr "Printer Parts"
+msgstr "Printer Onderdelen"
 
 msgid "Print Options"
-msgstr "Print Opties"
+msgstr "Printopties"
 
 msgid "100%"
 msgstr "100%"
@@ -5437,7 +5449,7 @@ msgid "Bed"
 msgstr "Printbed"
 
 msgid "Debug Info"
-msgstr "Informatie over Debuggen"
+msgstr "Debuginformatie"
 
 msgid "No SD Card"
 msgstr "Geen microSD-kaart"
@@ -5459,15 +5471,15 @@ msgstr "Cloud Slicing..."
 
 #, c-format, boost-format
 msgid "In Cloud Slicing Queue, there are %s tasks ahead."
-msgstr "In Cloud Slicing Queue, there are %s tasks ahead of you."
+msgstr "Er zijn %s taken voor u in de Cloud Slicing Wachtrij."
 
 #, c-format, boost-format
 msgid "Layer: %s"
-msgstr "Layer: %s"
+msgstr "Laag: %s"
 
 #, c-format, boost-format
 msgid "Layer: %d/%d"
-msgstr "Layer: %d/%d"
+msgstr "Laag: %d/%d"
 
 msgid ""
 "Please heat the nozzle to above 170 degree before loading or unloading "
@@ -5538,13 +5550,13 @@ msgid "Get oss config failed."
 msgstr "Het ophalen van de oss-configuratie is mislukt."
 
 msgid "Upload Pictures"
-msgstr "Upload Pictures"
+msgstr "Afbeeldingen uploaden"
 
 msgid "Number of images successfully uploaded"
 msgstr "Aantal afbeeldingen succesvol geüpload"
 
 msgid " upload failed"
-msgstr "uploaden mislukt"
+msgstr " uploaden mislukt"
 
 msgid " upload config prase failed\n"
 msgstr " upload config prase mislukt\n"
@@ -5553,7 +5565,7 @@ msgid " No corresponding storage bucket\n"
 msgstr " Geen bijbehorende opslag bucket\n"
 
 msgid " can not be opened\n"
-msgstr " cannot be opened\n"
+msgstr " kan niet worden geopend\n"
 
 msgid ""
 "The following issues occurred during the process of uploading images. Do you "
@@ -5583,7 +5595,7 @@ msgid ""
 "\n"
 "  error code: "
 msgstr ""
-"Your comment result cannot be uploaded due to the following reasons:\n"
+"Uw reactie resultaat kan niet worden geüpload door de volgende reden:\n"
 "\n"
 "  error code: "
 
@@ -5597,7 +5609,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Would you like to redirect to the webpage to give a rating?"
+"Wilt u doorgestuurd worden naar de webpagina voor het geven van een beoordeling?"
 
 msgid ""
 "Some of your images failed to upload. Would you like to redirect to the "
@@ -5613,8 +5625,8 @@ msgid ""
 "At least one successful print record of this print profile is required \n"
 "to give a positive rating(4 or 5stars)."
 msgstr ""
-"At least one successful print record of this print profile is required \n"
-"to give a positive rating (4 or 5 stars)."
+"Tenminste één succesvoll print record van dit printprofiel is nodig \n"
+"voor het geven van een positieve beoordeling (4 of 5 sterren)."
 
 msgid "Status"
 msgstr "Status"
@@ -5653,24 +5665,26 @@ msgid "Skip"
 msgstr "Overslaan"
 
 msgid "Newer 3mf version"
-msgstr "Nieuwere versie 3mf"
+msgstr "Nieuwere 3mf versie"
 
 msgid ""
 "The 3mf file version is in Beta and it is newer than the current OrcaSlicer  "
 "version."
 msgstr ""
+"De 3mf bestandsversie is in Beta en is nieuwer dan de huidige OrcaSlicer "
+"versie."
 
 msgid "If you would like to try Orca Slicer Beta, you may click to"
-msgstr ""
+msgstr "Als u Orca Slicer Beta wilt proberen, mag u klikken om"
 
 msgid "Download Beta Version"
 msgstr "Beta-versie downloaden"
 
 msgid "The 3mf file version is newer than the current Orca Slicer version."
-msgstr ""
+msgstr "De 3mf bestandsversie is nieuwer dan de huidige Orca Slicer versie."
 
 msgid "Update your Orca Slicer could enable all functionality in the 3mf file."
-msgstr ""
+msgstr "Het updaten van uw Orca Slicer zou alle functionaliteit in het 3mf bestand kunnen toevoegen."
 
 msgid "Current Version: "
 msgstr "Huidige versie: "
@@ -5682,7 +5696,7 @@ msgid "Not for now"
 msgstr "Not for now"
 
 msgid "Server Exception"
-msgstr ""
+msgstr "Server Uitzondendering"
 
 msgid ""
 "The server is unable to respond. Please click the link below to check the "
@@ -5693,12 +5707,14 @@ msgid ""
 "If the server is in a fault state, you can temporarily use offline printing "
 "or local network printing."
 msgstr ""
+"Als de server zich in een foutstaat bevindt, kunt u tijdelijk offline "
+"printen of lokaal netwerk printen gebruiken."
 
 msgid "How to use LAN only mode"
-msgstr ""
+msgstr "Hoe gebruik ik de LAN-only modus?"
 
 msgid "Don't show this dialog again"
-msgstr ""
+msgstr "Laat dit dialoogvenster niet weer zien"
 
 msgid "3D Mouse disconnected."
 msgstr "3D-muis losgekoppeld."
@@ -5775,7 +5791,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "ERROR"
-msgstr "Fout"
+msgstr "FOUT"
 
 msgid "COMPLETED"
 msgstr "VOLTOOID"
@@ -10919,10 +10935,10 @@ msgid ""
 msgstr ""
 
 msgid "Counter clockwise"
-msgstr ""
+msgstr "Tegen de klok in"
 
 msgid "Clockwise"
-msgstr ""
+msgstr "Met de klok mee"
 
 msgid "Height to rod"
 msgstr "Hoogte tot geleider"
@@ -10958,7 +10974,7 @@ msgid "The height of nozzle tip."
 msgstr "De hoogte van de mondstukpunt."
 
 msgid "Bed mesh min"
-msgstr ""
+msgstr "Bed mesh min"
 
 msgid ""
 "This option sets the min point for the allowed bed mesh area. Due to the "
@@ -10984,9 +11000,18 @@ msgid ""
 "your printer manufacturer. The default setting is (99999, 99999), which "
 "means there are no limits, thus allowing probing across the entire bed."
 msgstr ""
+"Deze optie zet het maximale punt voor het toegestane mesh gebied. Door de "
+"XY offset van de probe, kunnen de meeste printers niet het hele bed proben. "
+"Om ervoor te zorgen dat de probe punt niet buiten het bed gebied komt, "
+"moeten de minimum en maximum punten van het mesh bed correct ingesteld zijn. "
+"Orca Slicer zorgt ervoor dat de adaptive_bed_mesh_min/adaptive_bed_mesh_max "
+"waarden niet over de minimum/maximum punten gaan. Deze informatie kan "
+"normaal gesproken worden verkregen van de printerfabrikant. De "
+"standaardinstelling is (99999, 99999), wat betekend dat er geen limieten "
+"zijn. Dit staat toe dat het hele bed wordt geprobed."
 
 msgid "Probe point distance"
-msgstr ""
+msgstr "Probepunt afstand"
 
 msgid ""
 "This option sets the preferred distance between probe points (grid size) for "
@@ -10994,12 +11019,14 @@ msgid ""
 msgstr ""
 
 msgid "Mesh margin"
-msgstr ""
+msgstr "Mesh margin"
 
 msgid ""
 "This option determines the additional distance by which the adaptive bed "
 "mesh area should be expanded in the XY directions."
 msgstr ""
+"Deze optie geeft de extra afstand aan waarbij het adaptieve bed mesh "
+"oppervlak moet worden uitgebreiden in de XY richtingen."
 
 msgid "Extruder Color"
 msgstr "Extruder kleur"
